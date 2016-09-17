@@ -1,0 +1,21 @@
+#app-layout {
+    font-family: 'Lato';
+    background-color: #7a8aa7;
+	list-style: none;
+	}
+.fa-btn {
+    margin-right: 6px;
+	}
+#imgWelcome {
+	max-height: 450px;
+	margin: auto;
+}
+.messageList:hover {
+	background-color: #f5f5f5;
+}
+.sended {
+	text-align: right;
+}
+.displayNone {
+	display: none;
+}
